@@ -1,5 +1,5 @@
 ## 功能
-###提取肺部病理图片中各个肺泡的Area、Perimeter、MaxFeretDiam
+### 提取肺部病理图片中各个肺泡的Area、Perimeter、MaxFeretDiam
 ## 进展
 1、利用python（提取mask）和imageJ内嵌的python（提取参数）实现了参数统计的自动化。\
 2、由于病理原图缺乏标尺，目前仅仅得到了相对的参数大小
