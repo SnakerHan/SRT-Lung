@@ -1,1 +1,2 @@
-# SRT-Lung
+# srt_lung
+## Parameter extraction
