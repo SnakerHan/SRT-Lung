@@ -1,2 +1,3 @@
 # srt_lung
-## Parameter extraction
+## 功能
+参数提取（Parameter extraction）
