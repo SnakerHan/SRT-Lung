@@ -1,4 +1,4 @@
-# srt_lung
+# SRT-肺部病理图片分析
 ## 前期调研
 Preliminary research.pdf
 ## 功能
