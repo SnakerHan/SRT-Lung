@@ -1,5 +1,5 @@
 ## 功能
-### 将肺部病理图片二值化，生成mat格式的膜体.
+### 将肺部病理图片二值化，生成mat格式的膜体。
 模体中包括：病理图片的二值矩阵phantom+参数dx（phantom中一个像素的尺寸)，用于GI_Simulation_mod2(https://git.tsinghua.edu.cn/guopy21/gi_simulation_mod2)。
 
 ## 进展
